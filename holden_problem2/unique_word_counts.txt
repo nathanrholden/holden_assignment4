@@ -1,0 +1,12 @@
+gold: 3
+forest: 1
+bread: 2
+treat: 1
+frog: 1
+test: 1
+bird: 3
+men: 2
+ten: 1
+five: 1
+fence: 1
+anime: 1
